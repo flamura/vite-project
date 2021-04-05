@@ -1,0 +1,9 @@
+body {
+  margin: .5rem
+}
+li {
+  text-align: initial;
+}
+img {
+  max-width: 100%;
+}
